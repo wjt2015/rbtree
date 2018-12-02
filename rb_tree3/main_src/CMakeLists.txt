@@ -1,0 +1,6 @@
+aux_source_directory(. main_src)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+include_directories("include")
+link_directories("lib")
+add_executable(rbMain ${main_src})
+target_link_libraries(rbMain rb_tree)

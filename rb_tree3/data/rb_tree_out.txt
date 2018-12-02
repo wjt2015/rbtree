@@ -1,0 +1,146 @@
+	(key,color):
+
+	(https://mvnrepository.com/artifact/weka/weka;black)
+
+	(https://mvnrepository.com/artifact/org.fnlp/fnlp-core;black)
+
+	(https://mvnrepository.com/artifact/org.apache.opennlp/opennlp-maxent;red)
+
+	(<version>1.0.2</version>;black)
+
+	(<sourceDirectory>src/main/java</sourceDirectory>;red)
+
+	(<plugins>;black)
+
+	(<dependency>;red)
+
+	(<artifactId>opennlp-tools</artifactId>;black)
+
+	(<!--;black)
+
+	(-->;black)
+
+	(-->;red)
+
+	(</dependency>;red)
+
+	(<!--fnlp-->;black)
+
+	(</dependencies>;black)
+
+	(</activation>;red)
+
+	(</dependency>;black)
+
+	(<artifactId>jieba-analysis</artifactId>;black)
+
+	(<artifactId>fnlp-all</artifactId>;red)
+
+	(</dependencyManagement>;black)
+
+	(</resource>;red)
+
+	(</plugin>;black)
+
+	(</modules>;red)
+
+	(</plugins>;black)
+
+	(</profile>;black)
+
+	(</profile>;black)
+
+	(</profiles>;black)
+
+	(</project>;red)
+
+	(</resource>;black)
+
+	(</resources>;black)
+
+	(<activation>;black)
+
+	(<activeByDefault>true</activeByDefault>;red)
+
+	(<artifactId>maven-compiler-plugin</artifactId>;red)
+
+	(<dependency>;red)
+
+	(<artifactId>stanford-corenlp</artifactId>;black)
+
+	(<artifactId>stanford-corenlp</artifactId>;black)
+
+	(<classifier>models-chinese</classifier>;red)
+
+	(<build>;black)
+
+	(<dependency>;black)
+
+	(<configuration>;red)
+
+	(<dependency>;red)
+
+	(<groupId>org.apache.opennlp</groupId>;black)
+
+	(<groupId>org.apache.httpcomponents</groupId>;black)
+
+	(<groupId>edu.stanford.nlp</groupId>;red)
+
+	(<groupId>com.huaban</groupId>;black)
+
+	(<finalName>wjt_ugc</finalName>;red)
+
+	(<directory>src/main/resources</directory>;black)
+
+	(<directory>src/main/profiles/${profiles.dir}</directory>;red)
+
+	(<groupId>edu.stanford.nlp</groupId>;red)
+
+	(<groupId>org.apache.maven.plugins</groupId>;red)
+
+	(<plugin>;red)
+
+	(<id>betaA</id>;black)
+
+	(<id>betaB</id>;black)
+
+	(<module>wjt_ugc_service</module>;red)
+
+	(<module>wjt_ugc_provider</module>;black)
+
+	(<module>wjt_ugc_dao</module>;red)
+
+	(<module>wjt_ugc_biz</module>;black)
+
+	(<module>wjt_ugc_common</module>;red)
+
+	(<module>wjt_ugc_ml</module>;red)
+
+	(<module>wjt_ugc_web</module>;black)
+
+	(<module>wjt_ugc_task</module>;red)
+
+	(<resource>;red)
+
+	(<properties>;red)
+
+	(<resources>;black)
+
+	(<resource>;red)
+
+	(<source>1.8</source>;red)
+
+	(<testSourceDirectory>src/test</testSourceDirectory>;black)
+
+	(<target>1.8</target>;red)
+
+	(<version>3.8.0</version>;red)
+
+	(<version>2.3.2</version>;red)
+
+	(https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp;red)
+
+	(https://mvnrepository.com/artifact/org.apache.opennlp/opennlp-tools;red)
+
+	(nlp-->;red)
+
